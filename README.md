@@ -23,12 +23,8 @@ Este repositório contém uma coleção de scripts essenciais para automação d
 
 ### Passos Rápidos
 1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/josehenriqueprogramador/tech-ops-toolbox.git](https://github.com/josehenriqueprogramador/tech-ops-toolbox.git)
-
+```bash
+git clone [https://github.com/josehenriqueprogramador/tech-ops-toolbox.git](https://github.com/josehenriqueprogramador/tech-ops-toolbox.git)
 2. Dê permissão de execução aos scripts:
-
 ```bash
 chmod +x bash/verificar_servico.sh
-
-### Documentação desenvolvida por José Henrique Jardim.
