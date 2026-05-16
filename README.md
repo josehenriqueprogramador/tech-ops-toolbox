@@ -25,6 +25,7 @@ Este repositório contém uma coleção de scripts essenciais para automação d
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/josehenriqueprogramador/tech-ops-toolbox.git](https://github.com/josehenriqueprogramador/tech-ops-toolbox.git)
+
 2. Dê permissão de execução aos scripts:
 
 ```bash
