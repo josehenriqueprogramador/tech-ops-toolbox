@@ -32,7 +32,17 @@ Uma suite profissional de scripts voltada para **Engenharia de Operações** e *
    `python analytics/analisador_logs.py`
 
 ---
+---
 
+## 📺 Processo de Desenvolvimento
+
+[![Assista no YouTube](https://img.youtube.com/vi/sgCoFRYljT0.jpg)](https://youtu.be/sgCoFRYljT0)
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.  
+Consulte o arquivo `LICENSE` para mais informações.
 ### 👨‍💻 Desenvolvido por:
 **José Henrique Jardim**
 *Cientista de Dados | Dev Python | TechOps*
