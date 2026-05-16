@@ -26,5 +26,6 @@ Este repositório contém uma coleção de scripts essenciais para automação d
 ```bash
 git clone [https://github.com/josehenriqueprogramador/tech-ops-toolbox.git](https://github.com/josehenriqueprogramador/tech-ops-toolbox.git)
 2. Dê permissão de execução aos scripts:
+
 ```bash
 chmod +x bash/verificar_servico.sh
