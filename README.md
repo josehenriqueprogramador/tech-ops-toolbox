@@ -36,7 +36,7 @@ Uma suite profissional de scripts voltada para **Engenharia de Operações** e *
 
 ## 📺 Processo de Desenvolvimento
 
-[![Assista no YouTube](https://img.youtube.com/vi/sgCoFRYljT0.jpg)](https://youtu.be/sgCoFRYljT0)
+[![Assista no YouTube](https://img.youtube.com/vi/sgCoFRYljT0/0.jpg)](https://youtu.be/sgCoFRYljT0)
 ---
 
 ## 📄 Licença
